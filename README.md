@@ -11,6 +11,8 @@
 
 By using Google Apps Script, the system automates the booking process—eliminating manual updates and reducing scheduling conflicts. It ensures transparency, accuracy, and real-time room availability.
 
+----
+
 ### School Room Booking là hệ thống đặt lịch và đăng ký phòng học dành cho các trường học ở Việt Nam, giúp quản lý hiệu quả việc sử dụng các phòng như: phòng bộ môn, phòng thí nghiệm, và các phòng chức năng khác.
 
 *Dự án được xây dựng bằng Google Apps Script, kết nối:*
